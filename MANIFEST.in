@@ -1,0 +1,3 @@
+include *.py CONTRIBUTORS LICENSE README.rst VERSION
+recursive-include docs *.rst
+exclude Makefile
